@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Nanny/.idea/Nanny.iml" filepath="$PROJECT_DIR$/../Nanny/.idea/Nanny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Symfony4.iml" filepath="$PROJECT_DIR$/.idea/Symfony4.iml" />
+      <module fileurl="file://E:/nanny-non-stop/.idea/nanny-non-stop.iml" filepath="E:/nanny-non-stop/.idea/nanny-non-stop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nounouv3/.idea/nounouv3.iml" filepath="$PROJECT_DIR$/../nounouv3/.idea/nounouv3.iml" />
+    </modules>
+  </component>
+</project>
